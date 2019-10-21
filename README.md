@@ -1,6 +1,6 @@
-## Welcome to my learning journal!
+# Welcome to my learning journal!
 
-# **(A Little) About Me** 
+## **(A Little) About Me** 
 
 Hey there! My name is Sheraim Mascal and I was born and raised in the Cayman Islands. A short trip to Italy with a fellow wanderer sparked my love for travel and ever since then I've been thinking of ways I could do this for a living. I am firm believe that work shouldn't feel like, well, work!
 
@@ -29,3 +29,8 @@ As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief
 * _Use the word ‘yet’._  Not knowing something now just means you haven't learned it "yet". The word ‘yet’ provides room for opportunity and potential. Accept feedback.  Being able to accept (and give) constructive feedback is integral to improving any skill. 
 
 * _Ask for help!_ Nuff said.  
+
+** Markdown vs HTML and CSS **
+
+Markdown is a way to style text on web documentation, and HTML and CSS are used to style webpages.
+
