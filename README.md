@@ -33,4 +33,3 @@ As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief
 ### GitHub Pages: Note on Markdown vs HTML and CSS 
 
 Markdown is a way to style text on web documentation, and HTML and CSS are used to style webpages. Markdown is  a lighweight markup language for **generating** html files, and is basically used by GitHub Pages for basically everything.  However, although Github Pages will convert your Markdown content, apply a theme and publish it, you are not able to create layers **within** that webpage (i.e. different tabs/sections). The content will be presented as just one running page.
-
