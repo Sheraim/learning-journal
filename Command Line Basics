@@ -1,2 +1,17 @@
+
+Go through these resources, and create a page in your Learning Journal repo that summarizes what learned 
+as though you were presenting the material to *a non-technical friend* interested in learning about it.
+
+Journal entry ideas:
+Blog Article (2-3 paragraphs with code sample)
+Dictionary / Flash Cards
+Notes in outline form
+Comparison of “basic” text editor vs coding-specific text editor vs IDE.
+
+Some cool features:
 feature 1
 cd == Change Directory
+
+Document in your journal the different classifications of text editors, and 
+why it’s important for software developers to be thoughtful about their selection of what they use to write code.
+Record in your journal a “cheat sheet” or other resource for basic terminal usage.
