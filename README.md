@@ -4,7 +4,7 @@
 
 Hey there! My name is Sheraim Mascal and I was born and raised in the Cayman Islands. A short trip to Italy with a fellow wanderer sparked my love for travel and ever since then I've been thinking of ways I could do this for a living. I am firm believe that work shouldn't feel like, well, work!
 
-[Alt Text](http://wanderlustandlipstick.com/blogs/goneworkabout/files/2015/11/Hill-quote-about-work-and-travel.jpg)
+![Alt Text](http://wanderlustandlipstick.com/blogs/goneworkabout/files/2015/11/Hill-quote-about-work-and-travel.jpg)
 
 ## **Why Code?**
 
