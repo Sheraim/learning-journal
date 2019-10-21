@@ -30,7 +30,7 @@ As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief
 
 * _Ask for help!_ Nuff said.  
 
-** Markdown vs HTML and CSS **
+**Markdown vs HTML and CSS**
 
 Markdown is a way to style text on web documentation, and HTML and CSS are used to style webpages.
 
