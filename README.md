@@ -1,8 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to my learning journal!
 
-You can use the [editor on GitHub](https://github.com/Sheraim/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Sheraim Mascal and I was born and raised in the Cayman Islands. A short trip to Italy with a fellow wanderer sparked my love for travel and ever since then I've been trying to think of ways I could do this for a living. I am firm believe that work shouldn't feel like, well, work!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was lucky enough to find out about Women in Code (Cayman).  I've always been interested in computers, programming, building apps, etc. and when I saw this course was being offered by CEC I immediately jumped at the opportunity.
+
+Technology has changed the way we live and has had a major impact on how we now do business. Advancements and upgrades are being developed everyday, and I believe that broadening one's knowledge of coding and digitization will not only expand their boundaries and appreciation for programming, but can also create another world of opportunities.
+
+ I'm looking forward to "decoding" the language of computers and developing another skill that can be used in many (if not every) area of my life.
+
+
+On the main page:
+Explain growth mindset in your own words
+Include 3 reminders to yourself of how to keep yourself in a growth mindset
+Utilize at least 5 different features of Markdown to structure your page
+Be sure to introduce yourself, and include a link to your GitHub portfolio page
 
 ### Markdown
 
