@@ -6,15 +6,15 @@ Hey there! My name is Sheraim Mascal and I was born and raised in the Cayman Isl
 
 ![Alt Text](http://wanderlustandlipstick.com/blogs/goneworkabout/files/2015/11/Hill-quote-about-work-and-travel.jpg)
 
-# **Why Code?**
+## **Why Code?**
 
 Technology has changed the way we live and has had a major impact on how we now do business. Advancements and upgrades are being developed everyday, and I believe that broadening one's knowledge of coding and digitization will not only expand their boundaries and appreciation for programming, but can also create another world of opportunities.  In steps Women in Code (Cayman).  I've always been interested in computers, programming, building apps, etc. and when I saw this course was being offered by Cayman Enterprise City I immediately jumped at the opportunity.  I'm looking forward to "decoding" the language of computers and developing another skill that can be used in many (if not every) area of my life.
 
-# **My Learning Journal**
+## **My Learning Journal**
 
 This journal will serve as a collection of my notes, observations, thoughts and other relevant materials I accumulate as I'm going through the Code Fellows programme, and you're welcome to share in this experience with me!  
 
-**What is Growth Mindset**
+### What is Growth Mindset
 
 _“In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.” ( Dweck, 2015)_
 
@@ -30,7 +30,7 @@ As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief
 
 * _Ask for help!_ Nuff said.  
 
-**Markdown vs HTML and CSS**
+### Markdown vs HTML and CSS
 
 Markdown is a way to style text on web documentation, and HTML and CSS are used to style webpages.
 
