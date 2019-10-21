@@ -1,48 +1,31 @@
 ## Welcome to my learning journal!
 
-My name is Sheraim Mascal and I was born and raised in the Cayman Islands. A short trip to Italy with a fellow wanderer sparked my love for travel and ever since then I've been trying to think of ways I could do this for a living. I am firm believe that work shouldn't feel like, well, work!
+# **(A Little) About Me** 
 
-I was lucky enough to find out about Women in Code (Cayman).  I've always been interested in computers, programming, building apps, etc. and when I saw this course was being offered by CEC I immediately jumped at the opportunity.
+Hey there! My name is Sheraim Mascal and I was born and raised in the Cayman Islands. A short trip to Italy with a fellow wanderer sparked my love for travel and ever since then I've been thinking of ways I could do this for a living. I am firm believe that work shouldn't feel like, well, work!
 
-Technology has changed the way we live and has had a major impact on how we now do business. Advancements and upgrades are being developed everyday, and I believe that broadening one's knowledge of coding and digitization will not only expand their boundaries and appreciation for programming, but can also create another world of opportunities.
+![Alt Text](http://wanderlustandlipstick.com/blogs/goneworkabout/files/2015/11/Hill-quote-about-work-and-travel.jpg)
 
- I'm looking forward to "decoding" the language of computers and developing another skill that can be used in many (if not every) area of my life.
+# **Why Code?**
 
+Technology has changed the way we live and has had a major impact on how we now do business. Advancements and upgrades are being developed everyday, and I believe that broadening one's knowledge of coding and digitization will not only expand their boundaries and appreciation for programming, but can also create another world of opportunities.  In steps Women in Code (Cayman).  I've always been interested in computers, programming, building apps, etc. and when I saw this course was being offered by Cayman Enterprise City I immediately jumped at the opportunity.  I'm looking forward to "decoding" the language of computers and developing another skill that can be used in many (if not every) area of my life.
 
-On the main page:
-Explain growth mindset in your own words
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-Utilize at least 5 different features of Markdown to structure your page
-Be sure to introduce yourself, and include a link to your GitHub portfolio page
+# **My Learning Journal**
 
-### Markdown
+This journal will serve as a collection of my notes, observations, thoughts and other relevant materials I accumulate as I'm going through the Code Fellows programme, and you're welcome to share in this experience with me!  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**What is Growth Mindset**
 
-```markdown
-Syntax highlighted code block
+_“In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.” ( Dweck, 2015)_
 
-# Header 1
-## Header 2
-### Header 3
+As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that effort makes them stronger and by putting in the extra time and effort this will lead to higher achievement.  In comparison, fixed mindset is the belief that intelligence and talents are static, and as such their potential for success is limited and based on whether they currently possess the required abilities. 
 
-- Bulleted
-- List
+### Fostering a Growth Mindset
 
-1. Numbered
-2. List
+* _Remember your Why._  Our awesome instructor, Amanda Iverson, mentioned this in Code 101 and it's truly something that can be applied to anything you're trying to accomplish on a daily basis and in life.
 
-**Bold** and _Italic_ and `Code` text
+* _View challenges as opportunities for growth and accept that you are not perfect._  No one is perfect and everyone started as a beginner at some stage (we weren't born walking, right?!). Appreciate that each time you try something new you will learn and grow, and the more you do it the better you will get at it. Which brings me to "Persistence". With consistent practice and hard work anything is achievable.
 
-[Link](url) and ![Image](src)
-```
+* _Use the word ‘yet’._  Not knowing something now just means you haven't learned it "yet". The word ‘yet’ provides room for opportunity and potential. Accept feedback.  Being able to accept (and give) constructive feedback is integral to improving any skill. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sheraim/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* _Ask for help!_ Nuff said.  
