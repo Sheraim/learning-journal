@@ -44,8 +44,9 @@ Other useful terminology:
 *Relative path - A file or directory location relative to where we currently are in the file system.
 *Absolute path - A file or directory location in relation to the root of the file system.
 
+## "Basic” Text Editor vs Coding-Specific Text Editor vs IDE
 
-
+Examples of these include Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text, and most of these are free!
 
 Choosing a text editor is a very personal choice, and at the end of the day the best text editor for YOU 
 is the one you enjoy working with the most.  However, don't stuck on using just one text editor (What happens to me is that
