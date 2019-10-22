@@ -16,7 +16,7 @@ ______________________________________________________________
 
 # Command Line Interface (cli)
 
-The Command Line Interface (cli), also called The Terminal, is a program on your system that allows you to enter commands 
+The Command Line Interface (cli), also called *The Terminal*, is a program on your system that allows you to enter commands 
 by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, 
 run programs, and navigate through folders and files.  On MAC the program is called **Terminal**, on Windows it's called **Command Prompt**.
 
@@ -36,10 +36,12 @@ run programs, and navigate through folders and files.  On MAC the program is cal
 *../[file folder] = navigate back to [file folder]
 *file = obtain information about what type of file a file or directory is
 
-## **Important Concepts and Paths**
+## Important Concepts and Paths
 
-Relative path - A file or directory location relative to where we currently are in the file system.
-Absolute path - A file or directory location in relation to the root of the file system.
+Other useful terminology:
+
+*Relative path - A file or directory location relative to where we currently are in the file system.
+*Absolute path - A file or directory location in relation to the root of the file system.
 
 You'll find that a lot of stuff in Linux can be achieved in several different ways. Paths are no different. Here are some more building blocks you may use to help build your paths.
 
