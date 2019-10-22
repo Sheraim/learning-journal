@@ -20,7 +20,7 @@ The Command Line Interface (cli), also called *The Terminal*, is a program on yo
 by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, 
 run programs, and navigate through folders and files.  On MAC the program is called **Terminal**, on Windows it's called **Command Prompt**.
 
-## **Glossary of Common Terminal Commands**
+## **Glossary of Common Terminal Commands and Shortcuts**
 
 *cd = Change Directories (ie. move to another directory)
 *pwd = Print Working Directory (ie. where are we currently)
@@ -35,19 +35,17 @@ run programs, and navigate through folders and files.  On MAC the program is cal
 *../ ../ = nagivate back two levels (directories)
 *../[file folder] = navigate back to [file folder]
 *file = obtain information about what type of file a file or directory is
-
-## Important Concepts and Paths
+~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
+. (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
+.. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
 
 Other useful terminology:
 
 *Relative path - A file or directory location relative to where we currently are in the file system.
 *Absolute path - A file or directory location in relation to the root of the file system.
 
-You'll find that a lot of stuff in Linux can be achieved in several different ways. Paths are no different. Here are some more building blocks you may use to help build your paths.
 
-~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
-. (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
-.. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+
 
 Choosing a text editor is a very personal choice, and at the end of the day the best text editor for YOU 
 is the one you enjoy working with the most.  However, don't stuck on using just one text editor (What happens to me is that
