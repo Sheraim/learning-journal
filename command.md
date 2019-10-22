@@ -14,7 +14,7 @@ why it’s important for software developers to be thoughtful about their select
 Record in your journal a “cheat sheet” or other resource for basic terminal usage.
 ______________________________________________________________
 
-Command Line Interface (cli)
+# Command Line Interface (cli)
 
 The Command Line Interface (cli), also called The Terminal, is a program on your system that allows you to enter commands 
 by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, 
