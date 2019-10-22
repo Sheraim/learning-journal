@@ -43,4 +43,9 @@ Commands
 git add [file name]
 git commit -m [what changes were made]
 git push origin master (syncs code to repo on GitHub)
+git add . (when ran after "git status" command this will add all folders / files that appeared in the result
 
+# To Clone to Git
+
+Command
+git clone [URL to clone] (eg "git clone (https://github.com/Sheraim/learning-journal.git)
