@@ -38,7 +38,9 @@ Good idea to create one repo for each project, however farely large projects may
 
 gitflow:acp (Add, commit, push)
 
-git add -tells git to commit changes
-git commit (Shutter button to take the snapshot)
--m specifiest the message included with the commit
-push - (syncs code to repo on GitHub) snapshot prints and can be distriuted to someone
+Commands
+
+git add [file name]
+git commit -m [what changes were made]
+git push origin master (syncs code to repo on GitHub)
+
