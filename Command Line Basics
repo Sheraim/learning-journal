@@ -16,52 +16,30 @@ ______________________________________________________________
 
 Command Line Interface (cli)
 
-The Command Line Interface (cli), also called The Terminal, is a text based interface to the system that allows you to enter commands by typing them on the keyboard and text feedback will appear on the screen.
+The Command Line Interface (cli), also called The Terminal, is a program on your system that allows you to enter commands 
+by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, 
+run programs, and navigate through folders and files.  On MAC the program is called **Terminal**, on Windows it's called **Command Prompt**.
 
-MAC it's called terminal, Windows' terminal is called [...]
+## **Glossary of Common Terminal Commands**
 
+*cd = Change Directories (ie. move to another directory)
+*pwd = Print Working Directory (ie. where are we currently)
+*ls = List the contents of a directory
+*ls -a = List the contents of a directory, including hidden files
+*mv = mov (source, destination)
+*cp = copy file
+*rm = remove file
+*touch = create file (ie. create a new file folder in a directory folder)
+*mkdir = make directory 
+*.. = navigate back two folders
+*../ ../ = nagivate back two levels (directories)
+*../[file folder] = navigate back to [file folder]
+*file = obtain information about what type of file a file or directory is
 
-the command line (also known as a terminal) running Bash.
-
-So what are they exactly?
-A command line, or terminal, is a text based interface to the system. 
-You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
-
-The command line typically presents you with a prompt. As you type, it will be displayed after the prompt. 
-Most of the time you will be issuing commands
-While you can leave the GUI alltogether, most people open up a command line interface just as another window on their desktop 
-(in fact you can have as many open as you like). 
-
-This is also to our advantage as we can have several command lines open and doing different tasks in each at the same time. 
-
-Let's break it down:
-
-Line 1 presents us with a prompt ( user@bash ). After that we entered a command ( ls ). Typically a command is always the first thing you type. After that we have what are referred to as command line arguments ( -l /home/ryan ). Important to note, these are separated by spaces (there must be a space between the command and the first command line argument also). The first command line argument ( -l ) is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - ).
-Lines 2 - 5 are output from running the command. Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error.
-Line 6 presents us with a prompt again. After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
-
-## **Glossary of Terminal Commands**
-
-cd = Change Directories (ie. move to another directory)
-pwd = Print Working Directory (ie. where are we currently)
-ls = List the contents of a directory
-ls -a = List the contents of a directory, including hidden files
-mv = mov (source, destination)
-cp = copy file
-rm = remove file
-touch = create file (ie. create a new file folder in a directory folder)
-mkdir = make directory 
-.. = navigate back two folders
-../ ../ = nagivate back two levels (directories)
-../[file folder] = navigate back to [file folder]
-file = obtain information about what type of file a file or directory is
-
-## **Important Concepts**
+## **Important Concepts and Paths**
 
 Relative path - A file or directory location relative to where we currently are in the file system.
 Absolute path - A file or directory location in relation to the root of the file system.
-
-## **More on Paths**
 
 You'll find that a lot of stuff in Linux can be achieved in several different ways. Paths are no different. Here are some more building blocks you may use to help build your paths.
 
