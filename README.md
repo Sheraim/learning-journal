@@ -6,7 +6,7 @@ Hey there! My name is Sheraim Mascal and I was born and raised in the Cayman Isl
 
 ![Alt Text](http://wanderlustandlipstick.com/blogs/goneworkabout/files/2015/11/Hill-quote-about-work-and-travel.jpg)
 
-## **Why Code?**
+## **Why Learn Code?**
 
 Technology has changed the way we live and has had a major impact on how we now do business. Advancements and upgrades are being developed everyday, and I believe that broadening one's knowledge of coding and digitization will not only expand their boundaries and appreciation for programming, but can also create another world of opportunities.  In steps Women in Code (Cayman).  I've always been interested in computers, programming, building apps, etc. and when I saw this course was being offered by Cayman Enterprise City I immediately jumped at the opportunity.  I'm looking forward to "decoding" the language of computers and developing another skill that can be used in many (if not every) area of my life.
 
