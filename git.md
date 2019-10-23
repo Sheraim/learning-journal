@@ -8,7 +8,7 @@ The main differences between Git and GitHub are summarized in the table below:
 
 ![Alt Text](http://cdn.differencebetween.net/wp-content/uploads/2018/03/Git-VERSUS-GitHub.jpg)
 
-*The neat thing about GitHub and Git is that when combined they create a collaborative development platform for programmers.* 
+The neat thing about GitHub and Git is that when combined they create a collaborative development platform for programmers. 
 
 ![Alt Text](https://3.bp.blogspot.com/-SnWr9oa-G30/UY6tZKwGZPI/AAAAAAAABLc/dyQGoX_i3E8/s1600/Github.png)
 
