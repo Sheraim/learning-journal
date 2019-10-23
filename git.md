@@ -46,7 +46,7 @@ Another cool thing about Git which sets it apart from other version control syst
 _(For my fellow corporate professionals these snapshots are the equivalent of a "blacklined" document. For the benefit of everyone else, this tool is a way to compare two documents in a word processing program and display only what changes have been made between them. The comparison is displayed by default in a new third document - the "blackline", which would be your snapshot.)_
 
 
-## Git Basic Command Cheat Sheet
+## Git Command Cheat Sheet
 
 
 | Command       | Usage         |
