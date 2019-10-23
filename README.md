@@ -19,6 +19,9 @@ This journal will serve as a collection of my notes, observations, thoughts and 
 | Page      | Topic         |
 | ------------- | ------------- |
 | 1  | Growth Mindset   |
+| 2  | Command Line Interface |
+| 3  | Git vs GitHub |
+
 
 ### What is Growth Mindset
 
