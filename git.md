@@ -48,6 +48,13 @@ _(For my fellow corporate professionals these snapshots are the equivalent of a 
 
 ## Git Command Cheat Sheet
 
+Command Usage
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 git status - show modified files in working directory, staged for your next commit
 git add [file] - add a file as it looks now to your next commit (stage)
 git add . - when ran after "git status" command this will add all folders / files that appeared in the result
