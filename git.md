@@ -46,23 +46,32 @@ Another cool thing about Git which sets it apart from other version control syst
 _(For my fellow corporate professionals these snapshots are the equivalent of a "blacklined" document. For the benefit of everyone else, this tool is a way to compare two documents in a word processing program and display only what changes have been made between them. The comparison is displayed by default in a new third document - the "blackline", which would be your snapshot.)_
 
 
-## Git Command Cheat Sheet
+## Git Basic Command Cheat Sheet
+
 
 | Command       | Usage         |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
-git status - show modified files in working directory, staged for your next commit
-git add [file] - add a file as it looks now to your next commit (stage)
-git add . - when ran after "git status" command this will add all folders / files that appeared in the result
-git commit -m “[brief message describing changes]” - commit your staged content as a new commit snapshot
-git push [alias] [branch] - transmit local branch commits to the remote repository branch
-git push origin master - sync code to repo on GitHub)
-git pull - fetch and merge any commits from the tracking remote branch
-git merge [alias]/[branch] - merge a remote branch into your current branch to bring it up to date
-git rm [file] - delete the file from project and stage the removal for commit
-git mv [existing-path] [new-path] - change an existing file path and stage the move
-git log --stat -M -show all commit logs with indication of any paths that moved
-git clone [url] - retrieve an entire repository from a hosted location via URL
+pwd get the current path
+ls list current directory contents
+cd - go back to previous directory: cd -
+mkdir (sample-dirname) make directory
+touch (sample-filename.txt) make file 
+cp (sample-filename.txt sample-filename-copy.txt) duplicate file 
+cp -a (folder)/ (new_folder) Copy/Page folder with content
+mv (current-filename.txt new-filename.txt) move/rename file
+rm (sample-filename.txt remove file)
+rmdir (sample-dirname) remove directory
+| git status  | show modified files in working directory, staged for your next commit  |
+| git add [file]  | add a file as it looks now to your next commit (stage)  |
+| git add .  |  - when ran after "git status" command this will add all folders / files that appeared in the result
+  |
+| git commit -m  | 
+ “[brief message describing changes]” - commit your staged content as a new commit snapshot |
+| git push [alias] [branch]  | transmit local branch commits to the remote repository branch  |
+| git push origin master  | sync code to repo on GitHub |
+| git pull  | fetch and merge any commits from the tracking remote branch  |
+| git merge [alias]/[branch]  | merge a remote branch into your current branch to bring it up to date |
+| git rm [file] | delete the file from project and stage the removal for commit  |
+| git mv [existing-path] [new-path]  | change an existing file path and stage the move |
+| git log --stat -M | show all commit logs with indication of any paths that moved  |
+| git clone [url]  | retrieve an entire repository from a hosted location via URL  |
