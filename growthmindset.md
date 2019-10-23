@@ -6,9 +6,15 @@
 
 A "growth" mindset is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that putting in the extra effort and time will make them stronger and lead to higher achievement.  In comparison, a "fixed" mindset is the belief that intelligence and talents are static, and therefore potential for success is limited and based on whether they currently possess the required abilities. 
 
+Each group's thoughts would look a little like this:
+
 ![Alt Text](https://miro.medium.com/max/1332/1*PQBc8JCD5yu4x2wxCCGU1g.png)
 
 ## Fostering a Growth Mindset
+
+By embracing the growth mindset you are more likely to act in ways that promote learning and growth, even if that means taking risks.  Almost everyone battles a fear of failure, but by adopting a growth mindset you can harness the power of failure to achieve success.   
+
+Here are 4 simple steps you can practice daily to develop a growth mindset:
 
 * _Remember your Why._  Our awesome instructor, Amanda Iverson, mentioned this in Code 101 and it's truly something that can be applied to anything you're trying to accomplish on a daily basis and in life.
 
