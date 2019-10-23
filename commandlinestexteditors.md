@@ -8,17 +8,17 @@ A text editor only does as its name describes and allows writing and making chan
 
 Fortunately, there is no shortage of alternatives, and below is a list of some more advanced third-party options, most of which are also free:
 
-_Notepad++
-_Text Wrangler
-_BB Edit
-_Visual Studio Code
-_Atom
-_Brackets
-_Sublime Text
+*Notepad++
+*Text Wrangler
+*BB Edit
+*Visual Studio Code
+*Atom
+*Brackets
+*Sublime Text
 
 ## Integrated Development Environment (IDE)
 
-In contrast, an IDE is a more sophisticated software that has complementing features meant to help web developers accomplish tasks with higher productivity, such as compilers, debuggers, static analyzers, contextual code completions ( which means you don’t have to type the entire line and save time), project navigation/overviews, etc. 
+In contrast, an IDE is a more sophisticated software that has complementing features meant to help web developers accomplish tasks with higher productivity, such as compilers, debuggers, static analyzers, contextual code completions, and project navigation/overviews, etc. 
 
 The right tool to use will depend on a number of factors and some other pros and cons for each include: 
 
@@ -30,7 +30,9 @@ The right tool to use will depend on a number of factors and some other pros and
 | | Better suited for extensive development projects  |
 |   | Often required if you are working with proprietary tooling (eg. Visual Studio)
 
-At the end of the day, the best solution for you is one that matches the scope of the job and makes you feel at ease while diving into the work. If the built-in text editor falls short in fulfilling your needs, then simply research the options for IDEs that work with your operating system.  However, as a developer the choice of using an editor or IDE is an important one and it should not be a one-time decision.  You should always be re-evaluating your choices and making changes wherever needed as new software is being created all the time and current software is always being updated, so you could be missing out on awesome new features if you limit yourself to only one tool.
+At the end of the day, the best solution for you is one that matches the scope of the job and makes you feel at ease while diving into the work. If the built-in text editor falls short in fulfilling your needs, then simply research the options for other advanced editors or IDEs that will work with your operating system.  
+
+As a developer the choice of using an editor or IDE is an important one and should not be a one-time decision.  You should always be re-evaluating your choices and making changes wherever needed as new software is being created all the time and current software is always being updated, therefore you will definitely miss out on awesome new features if you limit yourself to only one tool.
 
 # Command Line Interface (cli)
 
