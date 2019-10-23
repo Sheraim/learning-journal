@@ -1,19 +1,3 @@
-** INSTRUCTIONS **
-
-Go through these resources, and create a page in your Learning Journal repo that summarizes what learned 
-as though you were presenting the material to *a non-technical friend* interested in learning about it.
-
-Journal entry ideas:
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Comparison of “basic” text editor vs coding-specific text editor vs IDE.
-
-Document in your journal the different classifications of text editors, and 
-why it’s important for software developers to be thoughtful about their selection of what they use to write code.
-Record in your journal a “cheat sheet” or other resource for basic terminal usage.
-______________________________________________________________
-
 # Command Line Interface (cli)
 
 The Command Line Interface (cli), also called *The Terminal*, is a program on your system that allows you to enter commands 
@@ -63,7 +47,7 @@ _Atom
 _Brackets
 _Sublime Text
 
-### IDE
+### Integrated Development Environment (IDE)
 
 In contrast, an IDE is a more sophisticated software that has complementing features meant to help web developers accomplish tasks with higher productivity, such as compilers, debuggers, static analyzers, contextual code completions ( which means you don’t have to type the entire line and save time), project navigation/overviews, etc. 
 
