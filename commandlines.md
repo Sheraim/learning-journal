@@ -17,27 +17,28 @@ ______________________________________________________________
 # Command Line Interface (cli)
 
 The Command Line Interface (cli), also called *The Terminal*, is a program on your system that allows you to enter commands 
-by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, 
-run programs, and navigate through folders and files.  On MAC the program is called **Terminal**, on Windows it's called **Command Prompt**.
+by typing them on the keyboard and text feedback will appear on the screen. These command "prompts" can be used to create and delete files, run programs, and navigate through folders and files.  On MAC the program is called **Terminal**, on Windows it's called **Command Prompt**.
 
-## **Glossary of Common Terminal Commands and Shortcuts**
+## **Command and Shortcut Cheat Sheet**
 
-*cd = Change Directories (ie. move to another directory)
-*pwd = Print Working Directory (ie. where are we currently)
-*ls = List the contents of a directory
-*ls -a = List the contents of a directory, including hidden files
-*mv = mov (source, destination)
-*cp = copy file
-*rm = remove file
-*touch = create file (ie. create a new file folder in a directory folder)
-*mkdir = make directory 
-*.. = navigate back two folders
-*../ ../ = nagivate back two levels (directories)
-*../[file folder] = navigate back to [file folder]
-*file = obtain information about what type of file a file or directory is
-~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
-. (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
-.. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+| Command       | Usage         |
+| ------------- | ------------- |
+| pwd   | print working directory, ie. get the current path
+| ls   | list current directory contents
+| ls -a | list the contents of a directory, including hidden files
+| cd -   | change directory
+| mkdir [sample-dirname]   | make directory
+| touch [sample-filename.txt]   | create a new file folder in a directory
+| cp [sample-filename.txt] [sample-filename-copy.txt]   | copy file 
+| cp -a [folder]/ [new_folder]   | copy folder with content
+| mv [current-filename.txt] [new-filename.txt]   | move/rename file
+| rm [sample-filename.txt]   | remove file
+| rmdir [sample-dirname]   | remove directory
+| ..  | navigate back two folders
+| ../ ../  | nagivate back two levels (directories)
+| ../[file folder]  | navigate back to [file folder]
+| file  | obtain information about what type of file a file or directory is
+| ~ (tilde)  | This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
 
 Other useful terminology:
 
