@@ -54,17 +54,17 @@ _(For my fellow corporate professionals these snapshots are the equivalent of a 
 | pwd   | get the current path
 | ls   | list current directory contents
 | cd -   | go back to previous directory
-| mkdir (sample-dirname)   | make directory
-| touch (sample-filename.txt)   | make file 
-| cp (sample-filename.txt sample-filename-copy.txt)   | duplicate file 
-| cp -a (folder)/ (new_folder)   | copy folder with content
-| mv (current-filename.txt new-filename.txt)   | move/rename file
-| rm (sample-filename.txt   | remove file
-| rmdir (sample-dirname)   | remove directory
+| mkdir [sample-dirname]   | make directory
+| touch [sample-filename.txt]   | make file 
+| cp [sample-filename.txt] [sample-filename-copy.txt]   | duplicate file 
+| cp -a [folder]/ [new_folder]   | copy folder with content
+| mv [current-filename.txt] [new-filename.txt]   | move/rename file
+| rm [sample-filename.txt]   | remove file
+| rmdir [sample-dirname]   | remove directory
 | git status  | show modified files in working directory, staged for your next commit  |
 | git add [file]  | add a file as it looks now to your next commit (stage)  |
 | git add .  |  - when ran after "git status" command this will add all folders / files that appeared in the result  |
-| git commit -m  |  “[brief message describing changes]” - commit your staged content as a new commit snapshot |
+| git commit -m  |  “[brief message describing why you made the changes]” - commit your staged content as a new commit snapshot |
 | git push [alias] [branch]  | transmit local branch commits to the remote repository branch  |
 | git push origin master  | sync code to repo on GitHub |
 | git pull  | fetch and merge any commits from the tracking remote branch  |
