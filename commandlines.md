@@ -21,8 +21,8 @@ by typing them on the keyboard and text feedback will appear on the screen. Thes
 
 ## **Command and Shortcut Cheat Sheet**
 
-| Command       | Usage         |
-| ------------- | ------------- |
+| Command       | Usage  |
+| ------------- | -------|
 | pwd   | print working directory, ie. get the current path
 | ls   | list current directory contents
 | ls -a | list the contents of a directory, including hidden files
