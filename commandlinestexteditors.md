@@ -8,13 +8,13 @@ A text editor only does as its name describes and allows writing and making chan
 
 Fortunately, there is no shortage of alternatives, and below is a list of some more advanced third-party options, most of which are also free:
 
-*Notepad++
-*Text Wrangler
-*BB Edit
-*Visual Studio Code
-*Atom
-*Brackets
-*Sublime Text
+* Notepad++
+* Text Wrangler
+* BB Edit
+* Visual Studio Code
+* Atom
+* Brackets
+* Sublime Text
 
 ## Integrated Development Environment (IDE)
 
