@@ -12,7 +12,13 @@ Technology has changed the way we live and has had a major impact on how we now 
 
 ## **My Learning Journal**
 
-This journal will serve as a collection of my notes, observations, thoughts and other relevant materials I accumulate as I'm going through the Code Fellows programme, and you're welcome to share in this experience with me!  
+This journal will serve as a collection of my notes, observations, thoughts and other relevant materials I accumulate as I'm going through the Code Fellows programme, and you're welcome to share in this experience with me! 
+
+## TABLE OF CONTENTS
+
+| Page      | Topic         |
+| ------------- | ------------- |
+| 1  | Growth Mindset   |
 
 ### What is Growth Mindset
 
