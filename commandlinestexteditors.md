@@ -40,12 +40,43 @@ by typing them on the keyboard and text feedback will appear on the screen. Thes
 | file  | obtain information about what type of file a file or directory is
 | ~ (tilde)  | This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
 
-Other useful terminology:
+### Other useful terminology:
 
-*Relative path - A file or directory location relative to where we currently are in the file system.
-*Absolute path - A file or directory location in relation to the root of the file system.
+* _**Relative path** - A file or directory location relative to where we currently are in the file system.
+* _**Absolute path** - A file or directory location in relation to the root of the file system.
 
 ## "Basic” Text Editor vs Coding-Specific Text Editor vs IDE
+
+It is important to choose the most appropriate tool for a job, and for developer sometimes this means making a decision between using an integrated development environment (IDE) or a text editor.
+
+A text editor only does as its name describes and allows writing and making changes to plsin text. Once a developer creates code in a text editor, they can then input the content into command-line windows.  
+
+In contrast, an IDE is a more sophisticated software that has complementing features meant to help web developers accomplish tasks with higher productivity, such as compilers, debuggers, static analyzers, contextual code completions ( which means you don’t have to type the entire line and save time), project navigation/overviews, etc. 
+
+_(Note: A GUI is a system of interactive components such as icons and other graphical objects that help a user interact with computer software, such as an operating system. Familiar examples of GUI operating systems are Microsoft Windows, Apple System 7 and macOS and Chrome OS.)
+
+The right tool will depend on a number of factors and below is a basic list of pros and cons for each tool. 
+
+| Text Editor     | IDE  |
+| ------------- | -------|
+|   | Better suited for extensive development projects  |
+| ls   | Supports unconscious competence and speeds up workflow, thanks to built-in shortcuts |
+| Allows you to practice solely writing code and become more adept at the skill  | 
+| Most computers already come with a pre-installed text editor, e.g. MAC has TextEdit and Windows has Notepad | Requires a system install |
+|   | Often required if you are working with proprietary tooling (eg. Visual Studio)
+| Downloads quickly and requires less memory  | Requires more memory than text editors
+
+
+If the built-in text editor falls short in fulfilling your needs, then simply research the options for IDEs that work with your operating system.
+
+At the end of the day, the best solution for you is one that matches the scope of the job and makes you feel at ease while diving into the work. However, as a developer the choice of using an editor or IDE is an important one and it should not be a one-time decision.  You should always be re-evaluating your choices and making changes wherever needed as new software is being created all the time and current software is always being updates, so you could be missing out on awesome new features if you limit yourself to only one tool.
+
+Since most computers already come with a pre-installed text editor, e.g. MAC has TextEdit and Windows has Notepad.  You can use Notepad on a Windows machine or TextEdit on a Mac to immediately try out a text editor. If you find it falls short by not fulfilling your needs, it’s then simple to research the options for IDEs that work with your operating system.
+
+
+As a programmer, the choice of editor/IDE is an important one, and it should not be a one-time decision. You should always be re-evaluating your choice and making changes wherever needed. In fact, it can be helpful to drop your favorite tool for a while and pick up a new one. The worst thing you can do is to pigeonhole yourself into a particular tool or to be overly loyal to a particular tool. A diverse tool set is always a good thing.
+
+Basic Text Editor is a very simple application that reads and writes text files. It is particularly suited if you want to handle files in different encodings and character sets.
 
 Examples of these include Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text, and most of these are free!
 
@@ -120,11 +151,4 @@ software package.
 
 ___________________
 
-A GUI (graphical user interface) is a system of interactive components such as icons and other graphical objects 
-that help a user interact with computer software, such as an operating system. 
 
-What are examples of a GUI operating system?
-Microsoft Windows
-Apple System 7 and macOS
-Chrome OS
-Linux variants like Ubuntu using a GUI interface.
