@@ -25,7 +25,7 @@ Submission Instructions
 Share a link to your home page in the discussion below. Check out the sites others have made!
 _______________________________________________________
 
-# GitHub and Git
+# GitHub vs Git
 
 _Git_ is a version control system tool that has the ability to manage a project or set of files related to a project, and maintains a history of the source code changes (i.e. file versions) throughout the process.  All of this information is stored in a data structure called a _repository_ (or repo), which is stored (or hosted) on GitHub, a web-based graphical interface.  It is best practice to create one repo for each project, however farely large projects may have additional subfolders.  
 
@@ -43,17 +43,20 @@ Another cool thing about Git which sets it apart from other version control syst
 
 ![Alt Text](https://git-scm.com/figures/18333fig0105-tn.png)
 
-For my fellow corporate professionals these snapshots are the equivalent of a "blacklined" document. For the benefit of everyone else, this tool is a way to compare two documents in a word processing program and display only what changes have been made between them. The comparison is displayed by default in a new third document - the "blackline", which would be your snapshot.
+_(For my fellow corporate professionals these snapshots are the equivalent of a "blacklined" document. For the benefit of everyone else, this tool is a way to compare two documents in a word processing program and display only what changes have been made between them. The comparison is displayed by default in a new third document - the "blackline", which would be your snapshot.)_
 
 
-## Common Git Commands
+## Git Command Cheat Sheet
 
-*git add [file name]
-*git commit -m [what changes were made]
-git push origin master (syncs code to repo on GitHub)
-git add . (when ran after "git status" command this will add all folders / files that appeared in the result)
-
-# To Clone to Git
-
-Command
-git clone [URL to clone] (eg "git clone (https://github.com/Sheraim/learning-journal.git))
+git status - show modified files in working directory, staged for your next commit
+git add [file] - add a file as it looks now to your next commit (stage)
+git add . - when ran after "git status" command this will add all folders / files that appeared in the result
+git commit -m “[brief message describing changes]” - commit your staged content as a new commit snapshot
+git push [alias] [branch] - transmit local branch commits to the remote repository branch
+git push origin master - sync code to repo on GitHub)
+git pull - fetch and merge any commits from the tracking remote branch
+git merge [alias]/[branch] - merge a remote branch into your current branch to bring it up to date
+git rm [file] - delete the file from project and stage the removal for commit
+git mv [existing-path] [new-path] - change an existing file path and stage the move
+git log --stat -M -show all commit logs with indication of any paths that moved
+git clone [url] - retrieve an entire repository from a hosted location via URL
