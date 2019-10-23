@@ -1,8 +1,12 @@
-# What is Growth Mindset
+# Growth Mindset
 
 > “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.” ( Dweck, 2015)
 
-As opposed to a "fixed" mindset, growth mindset is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that effort makes them stronger and by putting in the extra time and effort this will lead to higher achievement.  In comparison, fixed mindset is the belief that intelligence and talents are static, and as such their potential for success is limited and based on whether they currently possess the required abilities. 
+## Growth Mindset vs Fixed Mindset
+
+A "growth" mindset is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that putting in the extra effort and time will make them stronger and lead to higher achievement.  In comparison, a "fixed" mindset is the belief that intelligence and talents are static, and therefore potential for success is limited and based on whether they currently possess the required abilities. 
+
+![Alt Text] (https://miro.medium.com/max/1332/1*PQBc8JCD5yu4x2wxCCGU1g.png)
 
 ## Fostering a Growth Mindset
 
