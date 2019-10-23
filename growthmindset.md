@@ -4,7 +4,7 @@
 
 ## Growth Mindset vs Fixed Mindset
 
-A "growth" mindset is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that putting in the extra effort and time will make them stronger and lead to higher achievement.  In comparison, a "fixed" mindset is the belief that intelligence and talents are static, and therefore potential for success is limited and based on whether they currently possess the required abilities. 
+A _growth mindset_ is the idea or underlying belief that one can get smarter - that it is possible to increase intelligence levels, talents, and abilities.  They understand that putting in the extra effort and time will make them stronger and lead to higher achievement.  In comparison, a _fixed mindset_ is the belief that intelligence and talents are static, and therefore potential for success is limited and based on whether they currently possess the required abilities. 
 
 Each group's thoughts would look something like this:
 
