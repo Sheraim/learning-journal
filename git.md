@@ -24,16 +24,6 @@ _(For my fellow corporate professionals these snapshots are the equivalent of a 
 
 | Command       | Usage         |
 | ------------- | ------------- |
-| pwd   | get the current path
-| ls   | list current directory contents
-| cd -   | go back to previous directory
-| mkdir [sample-dirname]   | make directory
-| touch [sample-filename.txt]   | make file 
-| cp [sample-filename.txt] [sample-filename-copy.txt]   | duplicate file 
-| cp -a [folder]/ [new_folder]   | copy folder with content
-| mv [current-filename.txt] [new-filename.txt]   | move/rename file
-| rm [sample-filename.txt]   | remove file
-| rmdir [sample-dirname]   | remove directory
 | git status  | show modified files in working directory, staged for your next commit  |
 | git add [file]  | add a file as it looks now to your next commit (stage)  |
 | git add .  |  - when ran after "git status" command this will add all folders / files that appeared in the result  |
